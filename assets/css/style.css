@@ -1,17 +1,12 @@
-.ism-navigtor-mandala .action button {font-size: 12px;padding: 5px 10px;background: #22e8a6;color: #222;border: none;border-radius: 3px;box-shadow: none;outline: none;transition: all .3s ease;display: inline-block;margin-top: 5px;font-weight: bold;}
-.ism-navigtor-mandala .action button img {
-    height: 1.2em;
-    width: auto;
-    margin-right: 7px;
-    vertical-align: text-bottom;
-}
+.ism-navigtor-mandala .action button { font-size: 12px; padding: 5px 10px; background: #22e8a6; color: #222; border: none; border-radius: 3px; box-shadow: none; outline: none; transition: all .3s ease; display: inline-block; margin-top: 5px; font-weight: bold; }
+.ism-navigtor-mandala .action button img { height: 1.2em; width: auto; margin-right: 7px; vertical-align: text-bottom; }
 .svg-mandala, .mandala-content { width: 50%; float: left; }
 .svg-mandala { }
 .mandala-content { margin-top: 7%; }
 .spf-meditation-filter { padding: 0px; background: transparent; border: 1px solid #ccc; }
 .slot-tables { margin-top: -2px; }
 .slot-tables .slot-table { display: none; }
-.slot-tables .slot-table table {border: 2px solid #333;border-collapse: collapse;width: 320px;}
+.slot-tables .slot-table table { border: 2px solid #333; border-collapse: collapse; width: 320px; }
 .slot-tables .slot-table table th { text-align: left; padding: 5px 12px; border-bottom: 2px solid #222; }
 .slot-tables .slot-table table td { border: 1px solid #222; padding: 5px 12px; font-weight: 600; }
 .slot-tables .slot-table table td.active { position: relative; }
@@ -23,20 +18,34 @@
 .slot-tables .slot-table-5 table th { background-color: #F1E8F8; }
 .slot-tables .slot-table-6 table th { background-color: #e6b9da6b; }
 .slot-tables .slot-table-7 table th { background-color: #D6EFD9; }
-.mandala-content .spf-meditation-filters {border: 2px solid #333;width: 320px;background: #ddd;padding: 5px 15px;margin-top: 100px;}
+.mandala-content .spf-meditation-filters { border: 2px solid #333; width: 320px; background: #ddd; padding: 5px 15px; margin-top: 100px; }
 .mandala-content .spf-meditation-filters label { margin-right: 10px; }
 
 /********************************************
  			Start ISM NAVIGATOR MANDALA
 *********************************************/
-svg {/* max-width: 800px; *//* display: inline-block; */ }
-#star text { letter-spacing: 3px; }
+svg { text-shadow: none; margin-left: -1.2em; margin-right: -1.5em; }
+#star text { font-size: 25px; }
+#star-1 text { transform: matrix(0.9041, 0.4273, -0.4273, 0.9041, 251.872, 71.1474); }
+#star-2 text { transform: matrix(0.6269, -0.7791, 0.7791, 0.6269, 539.647, 475.73); }
+#star-3 text { transform: matrix(0.6263, 0.7796, -0.7796, 0.6263, 170.331, 435.117); }
+#star-4 text { }
+#star-5 text { }
+#star-6 text { transform: matrix(1, 0, 0, 1, 380.308, 555.285); }
+#star-7 text { transform: matrix(0.2148, -0.9767, 0.9767, 0.2148, 148.63, 454.08); }
 #slots {	/* transform: rotate(0deg); */
 transform-origin: 373px 342px; position: relative; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; -ms-transition: all .5s ease; -o-transition: all .5s ease; transition: all .5s ease; }
 #slots .slot .slot-icon, #slots .slot .hidden-text { -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
-#slots .slot:hover .hidden-text, #slots .slot-icon { opacity: 0; }
-#slots .slot:hover .slot-icon { opacity: 1; }
-#slots .slot.active >  g > polygon {/* fill: white; */}
+#slots .slot .hidden-text, #slots .slot:hover .slot-icon {opacity: 0;}
+#slots .slot .hidden-text { font-size: 22px; }
+#slots .slot:hover .hidden-text { opacity: 1; }
+#slots .slot.active >  g > polygon {/* fill: white; */ }
+#slots #slot2 .hidden-text { transform: matrix(0.9009, 0.434, -0.434, 0.9009, 392.386, 188.363); }
+#slots #slot3 .hidden-text { transform: matrix(0.8983, -0.4393, 0.4393, 0.8984, 263.476, 235.631); }
+#slots #slot4 .hidden-text { transform: matrix(0.2, -0.9, 0.9, 0.2, 212, 374);    /* font-size: 20px; */ }
+#slots #slot5 .hidden-text { }
+#slots #slot6 .hidden-text { transform: matrix(0.99, 0, 0, 0.99, 303, 504); }
+#slots #slot7 .hidden-text { }
 #star [id*="star-"].active text, #star [id*="star-"]:hover text { fill: white; }
 
 /********************************************
