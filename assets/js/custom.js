@@ -334,7 +334,7 @@
 		if (starContainer.find('#star-1').hasClass('active')) {
 			slotContainer.css({'transform': 'rotate(308.568deg)'});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot7 .hidden-text').css({
 				transform: "matrix(-0.6, 0.78, -0.78, -0.62, 512, 393)"
@@ -379,7 +379,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot6 .hidden-text').css({
 				transform: "matrix(-0.99, 0, 0, -0.99, 438, 489)"
@@ -418,7 +418,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot5 .hidden-text').css({
 				transform: "matrix(-0.6, -0.78, 0.78, -0.62, 289, 473)"
@@ -464,7 +464,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot5 .hidden-text').css({
 				transform: "matrix(-0.6, -0.78, 0.78, -0.62, 289, 473)"
@@ -480,7 +480,7 @@
 				'transform': 'rotate(308.568deg)'
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot7 .hidden-text').css({
 				transform: "matrix(-0.6, 0.78, -0.78, -0.62, 512, 393)"
@@ -525,7 +525,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot6 .hidden-text').css({
 				transform: "matrix(-0.99, 0, 0, -0.99, 438, 489)"
@@ -577,7 +577,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot6 .hidden-text').css({
 				transform: "matrix(-0.99, 0, 0, -0.99, 438, 489)"
@@ -614,7 +614,7 @@
 				transform: "matrix(-0.9, -0.43, 0.43, -0.9, 482, 219)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot7 .hidden-text').css({
 				transform: "matrix(-0.6, 0.78, -0.78, -0.62, 512, 393)"
@@ -624,7 +624,7 @@
 				'transform': 'rotate(308.568deg)'
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot7 .hidden-text').css({
 				transform: "matrix(-0.6, 0.78, -0.78, -0.62, 512, 393)"
@@ -659,7 +659,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot5 .hidden-text').css({
 				transform: "matrix(-0.6, -0.78, 0.78, -0.62, 289, 473)"
@@ -675,7 +675,7 @@
 				'transform': 'rotate(308.568deg)'
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot7 .hidden-text').css({
 				transform: "matrix(-0.6, 0.78, -0.78, -0.62, 512, 393)"
@@ -720,7 +720,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot6 .hidden-text').css({
 				transform: "matrix(-0.99, 0, 0, -0.99, 438, 489)"
@@ -766,7 +766,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot6 .hidden-text').css({
 				transform: "matrix(-0.99, 0, 0, -0.99, 438, 489)"
@@ -809,7 +809,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot5 .hidden-text').css({
 				transform: "matrix(-0.6, -0.78, 0.78, -0.62, 289, 473)"
@@ -825,7 +825,7 @@
 				'transform': 'rotate(308.568deg)'
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot7 .hidden-text').css({
 				transform: "matrix(-0.6, 0.78, -0.78, -0.62, 512, 393)"
@@ -854,7 +854,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot5 .hidden-text').css({
 				transform: "matrix(-0.6, -0.78, 0.78, -0.62, 289, 473)"
@@ -870,7 +870,7 @@
 				'transform': 'rotate(308.568deg)'
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot7 .hidden-text').css({
 				transform: "matrix(-0.6, 0.78, -0.78, -0.62, 512, 393)"
@@ -915,7 +915,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot6 .hidden-text').css({
 				transform: "matrix(-0.99, 0, 0, -0.99, 438, 489)"
@@ -955,7 +955,7 @@
 				transform: "matrix(-0.89, 0.43, -0.43, -0.89, 341, 177)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot6 .hidden-text').css({
 				transform: "matrix(-0.99, 0, 0, -0.99, 438, 489)"
@@ -992,7 +992,7 @@
 				transform: "matrix(-0.9, -0.43, 0.43, -0.9, 482, 219)"
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot7 .hidden-text').css({
 				transform: "matrix(-0.6, 0.78, -0.78, -0.62, 512, 393)"
@@ -1002,7 +1002,7 @@
 				'transform': 'rotate(308.568deg)'
 			});
 			slotContainer.find('#slot4 .hidden-text').css({
-				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 232, 235)"
+				transform: "matrix(-0.27, 0.97, -0.97, -0.2, 233, 243)"
 			});
 			slotContainer.find('#slot7 .hidden-text').css({
 				transform: "matrix(-0.6, 0.78, -0.78, -0.62, 512, 393)"
