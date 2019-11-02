@@ -36,9 +36,9 @@ svg { text-shadow: none; margin-left: -1.2em; margin-right: -1.5em; }
 #slots {	/* transform: rotate(0deg); */
 transform-origin: 373px 342px; position: relative; -webkit-transition: all .5s ease; -moz-transition: all .5s ease; -ms-transition: all .5s ease; -o-transition: all .5s ease; transition: all .5s ease; }
 #slots .slot .slot-icon, #slots .slot .hidden-text { -webkit-transition: all .25s ease; -moz-transition: all .25s ease; -ms-transition: all .25s ease; -o-transition: all .25s ease; transition: all .25s ease; }
-#slots .slot .hidden-text { opacity: 0; }
-#slots .slot .hidden-text { font-size: 22px; }
+#slots .slot .hidden-text { opacity: 0; font-size: 22px; }
 #slots .slot:hover .hidden-text, #slots .slot:active .hidden-text { opacity: 1; }
+#slots .slot:hover .slot-icon {opacity: 0;}
 #slots .slot.active >  g > polygon {/* fill: white; */ }
 #slots #slot2 .hidden-text { transform: matrix(0.9009, 0.434, -0.434, 0.9009, 392.386, 188.363); }
 #slots #slot3 .hidden-text { transform: matrix(0.8983, -0.4393, 0.4393, 0.8984, 263.476, 235.631); }
